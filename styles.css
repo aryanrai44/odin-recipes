@@ -1,0 +1,13 @@
+/* styles.css */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+h1 {
+    background-color: rgb(204, 61, 61);
+    color: rgb(21, 255, 0);
+}
